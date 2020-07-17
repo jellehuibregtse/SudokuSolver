@@ -1,0 +1,20 @@
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.exe.config
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.exe
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.pdb
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.csprojAssemblyReference.cache
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.exe
+/Users/jellehuibregtse/GoogleDrive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.pdb
+/Users/jellehuibregtse/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.exe.config
+/Users/jellehuibregtse/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.exe
+/Users/jellehuibregtse/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.pdb
+/Users/jellehuibregtse/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.csprojAssemblyReference.cache
+/Users/jellehuibregtse/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.exe
+/Users/jellehuibregtse/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.pdb
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.exe.config
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.exe
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/bin/Debug/SudokuSolver.pdb
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.csproj.CoreCompileInputs.cache
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.exe
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.pdb
+C:/Users/Jelle/Google Drive/Projects/Microsoft Visual Studio Projects/source/repos/SudokuSolver/obj/Debug/SudokuSolver.csprojAssemblyReference.cache
